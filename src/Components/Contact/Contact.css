@@ -64,3 +64,8 @@ input, textarea{
         width: var(--container-width-sm);
     }
 }
+
+html {
+    scroll-behavior: smooth;
+  }
+  
