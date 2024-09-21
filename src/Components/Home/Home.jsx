@@ -18,10 +18,10 @@ const Home = () => {
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
         </div>
         <div className="home_social">
-          <a href=''>
+          <a href='https://www.linkedin.com/in/kore-sneha-a623962b3'>
             <BsLinkedin />
           </a>
-          <a href=''>
+          <a href='https://github.com/snehakore54/'>
             <BsGithub />
           </a>
           <a href=''>
