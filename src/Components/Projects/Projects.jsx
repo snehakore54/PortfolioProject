@@ -16,7 +16,7 @@ const Projects = () => {
                 <h3>Dashboard</h3>
                 <small className='text-light'>React JS</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'>GitHub</a>
+                    <a href="https://mellifluous-pastelito-13a6c6.netlify.app" className='btn'>Netlify</a>
                 </div>
             </article>
 
@@ -27,7 +27,7 @@ const Projects = () => {
                 <h3>Food Munch</h3>
                 <small className='text-light'>HTML, CSS, Bootstrap</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'>GitHub</a>
+                    <a href="https://fmgridcolumn.ccbp.tech" className='btn'>Netlify</a>
                 </div>
             </article>
 
@@ -38,7 +38,7 @@ const Projects = () => {
                 <h3>NxtTrendz Application</h3>
                 <small className='text-light'>React JS</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'>GitHub</a>
+                    <a href="https://ntp21.ccbp.tech" className='btn'>Netlify</a>
                 </div>
             </article>
            </div>
